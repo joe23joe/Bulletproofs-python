@@ -7,4 +7,5 @@ Some of my paper work while studying Bulletproofs (probably will organize it and
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e2ca3b2a-81e8-4392-84aa-d7c3f912e0a7" />
 <img width="1600" height="1077" alt="image" src="https://github.com/user-attachments/assets/cde62cf2-f7c5-41d0-8cf6-1744d3f840ad" />
 <img width="1600" height="1053" alt="image" src="https://github.com/user-attachments/assets/3c8e3075-fa3d-4831-a212-3ab320c35226" />
+<img width="1600" height="1072" alt="image" src="https://github.com/user-attachments/assets/f4fd8c8c-661f-48f8-a2c7-06be89d76460" />
 
